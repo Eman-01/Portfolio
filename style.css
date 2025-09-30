@@ -631,7 +631,7 @@ footer i:hover{
   
   .color-container {
     border-color: rgb(163, 163, 163);
-    background: gray;
+    background: transparent
   }
   
   .project-img {
@@ -642,11 +642,11 @@ footer i:hover{
   
   .project-title {
     margin: 1rem;
-    color: black;
+    color: #23b410;
   }
   
   .project-btn {
-    color: black;
+    color: #23b410;
     border-color: rgb(163, 163, 163);
   }
 
